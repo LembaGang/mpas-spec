@@ -1,8 +1,17 @@
+> **Superseded — this work lives forward in Headless Oracle.** The
+> Multi-Party Attestation Aggregation framing described in this
+> repository has been incorporated into the Headless Oracle
+> multi-oracle consensus spec and the broader
+> `environment.market_state` constraint work. The canonical current
+> location is [Headless Oracle](https://headlessoracle.com) and
+> [PR #9 on agent-intent/verifiable-intent](https://github.com/agent-intent/verifiable-intent/pull/9).
+> Content below is retained for historical reference.
+
+---
+
 # MPAS — Multi-Party Attestation Aggregation Specification
 
 **Version**: 1.0.0 | **Status**: Draft | **License**: Apache 2.0
-
-**Canonical URL**: [headlessoracle.com/docs/mpas](https://headlessoracle.com/docs/mpas)
 
 ---
 
